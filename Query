@@ -134,7 +134,7 @@ GROUP BY
 
 
 
-Query that captured data from just the summer season:
+Query that captured data just for the summer season:
 
 
 SELECT
